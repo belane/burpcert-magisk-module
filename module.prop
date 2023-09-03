@@ -1,0 +1,6 @@
+id=burpcert
+name=System Burp Certificate
+version=v0.9
+versionCode=09
+author=belane
+description=Moves Burp's root CA certificate from the user certificate store to the system store.
